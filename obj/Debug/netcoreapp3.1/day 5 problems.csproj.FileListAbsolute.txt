@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.exe
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.deps.json
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.dll
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\bin\Debug\netcoreapp3.1\day 5 problems.pdb
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.dll
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.pdb
+C:\Users\prakash kandula\source\repos\day 5 problems\day 5 problems\obj\Debug\netcoreapp3.1\day 5 problems.genruntimeconfig.cache
